@@ -5,7 +5,7 @@
 
 Programmer
 ----------
-Welcome to my page!</br>A passionate roboticist and software developer hailing from the vibrant city of Dhaka, Bangladesh ![image width=13](https://github.com/Hasan-091/Hasan-091/assets/147977301/8f1cda3d-4465-4feb-b440-a1b1bc87653a)
+Welcome to my page!</br>A passionate roboticist and software developer hailing from the vibrant city of Dhaka, Bangladesh <img src="https://www.flaticon.com/free-icon/bangladesh_7826304" width="13"/>
 . With a profound love for the world of robotics and a knack for coding, I'm on an exciting journey to push the boundaries of technology.
 
 *   🌍  I'm based in Dhaka, Bangladesh
