@@ -5,7 +5,7 @@
 
 Programmer
 ----------
-Welcome to my page!</br>A passionate roboticist and software developer hailing from the vibrant city of Dhaka, Bangladesh <img src="https://www.flaticon.com/free-icon/bangladesh_7826304" width="13"/>
+Welcome to my page!</br>A passionate roboticist and software developer hailing from the vibrant city of Dhaka, Bangladesh <img src="https://www.flaticon.com/free-icon/bangladesh_7826304?term=bangladesh+flag&page=1&position=3&origin=search&related_id=7826304" width="13"/>
 . With a profound love for the world of robotics and a knack for coding, I'm on an exciting journey to push the boundaries of technology.
 
 *   🌍  I'm based in Dhaka, Bangladesh
