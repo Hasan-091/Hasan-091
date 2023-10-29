@@ -121,3 +121,46 @@ Welcome to my page!</br>A passionate roboticist and software developer hailing f
 
 
 <a href="http://www.github.com/Hasan-091"><img src="https://github-readme-stats.vercel.app/api?username=Hasan-091&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hasan-091's GitHub stats" height="200" /></a> <a href="https://github.com/Hasan-091" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-091&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="200" /></a> <a href="http://www.github.com/Hasan-091"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-091&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="830" /></a> <a href="http://www.github.com/Hasan-091"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hasan-091&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> <b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+Tuesday      6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+Wednesday    9 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.15% 
+Thursday     8 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
+Friday       11 commits     █████░░░░░░░░░░░░░░░░░░░░   23.4%
+Saturday     8 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
+Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.38%
+
+```
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages:
+Python                   21 hrs 53 mins      ███████████████████░░░░░░   76.71% 
+YAML                     3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
+Text                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36% 
+TypeScript               34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
+Prolog                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
+
+🔥 Editors: 
+VScode                   28 hrs 31 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      28 hrs 31 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+
+Python                   7 repos             █████████████░░░░░░░░░░░░   53.85% 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
