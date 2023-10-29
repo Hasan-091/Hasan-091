@@ -5,7 +5,7 @@
 
 Programmer
 ----------
-Welcome to my page!</br>A passionate roboticist and software developer hailing from the vibrant city of Dhaka, Bangladesh. With a profound love for the world of robotics and a knack for coding, I'm on an exciting journey to push the boundaries of technology.
+Welcome to my profile!</br>A passionate roboticist and software developer hailing from the vibrant city of Dhaka, Bangladesh. With a profound love for the world of robotics and a knack for coding, I'm on an exciting journey to push the boundaries of technology. I'm passionate about areas of machine learning like deep learning and reinforcement learning. You can also find me interested in robotics and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well and hope to contribute to that field as well.
 
 *   🌍  I'm based in Dhaka, Bangladesh
 *   🖥️  See my portfolio at [Behance](https://www.behance.net/abdullahhasan35)
@@ -29,7 +29,6 @@ Welcome to my page!</br>A passionate roboticist and software developer hailing f
                     </p>
 		    
 ### Things I code with
-----------
 <p text-align="justify">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -123,7 +122,7 @@ Welcome to my page!</br>A passionate roboticist and software developer hailing f
 
 ### Socials     
 		    
-<p><a href="https://www.gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdullahhasann/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://github.com/Hasan-091" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://github.com/Hasan-091" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://discord.com/users/_abdullahhasan" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://www.behance.net/abdullahhasan35" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a> <a href="https://www.researchgate.net/profile/Abdullah-Hasan-26" target="_blank"><img alt="Researchgate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
+<p align="center"><a href="https://www.gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdullahhasann/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://github.com/Hasan-091" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://github.com/Hasan-091" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://discord.com/users/_abdullahhasan" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://www.behance.net/abdullahhasan35" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a> <a href="https://www.researchgate.net/profile/Abdullah-Hasan-26" target="_blank"><img alt="Researchgate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 </p>
 
 
