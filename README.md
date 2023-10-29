@@ -66,6 +66,12 @@ Welcome to my page!</br>A passionate roboticist and software developer hailing f
 <img alt="vs" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" />
 <img alt="rs" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
 <img alt="esp" src="https://img.shields.io/badge/espressif-E7352C?style=flat-square&logo=espressif&logoColor=white" />	
+<img src="https://img.shields.io/badge/Robotics-brown?style=flat-square&logo=espressif&logoColor=white" />	
+<img src="https://img.shields.io/badge/Machine Learning-green?style=flat-square&logo=espressif&logoColor=white" />	
+<img src="https://img.shields.io/badge/Deep Learning-red?style=flat-square&logo=espressif&logoColor=white" />	
+<img src="https://img.shields.io/badge/Computer Vision-magenta?style=flat-square&logo=espressif&logoColor=white" />	
+<img src="https://img.shields.io/badge/Natural Language Processing-yellow?style=flat-square&logo=espressif&logoColor=white" />	
+<img src="https://img.shields.io/badge/Reinforcement Learning-blue?style=flat-square&logo=espressif&logoColor=white" />	 
 </p>
 
 
