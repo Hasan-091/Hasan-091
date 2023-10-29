@@ -2,9 +2,6 @@
 # Hey! Nice to see you.
 
 
-
-Programmer
-----------
 Welcome to my profile!</br>A passionate roboticist and software developer hailing from the vibrant city of Dhaka, Bangladesh. With a profound love for the world of robotics and a knack for coding, I'm on an exciting journey to push the boundaries of technology. I'm passionate about areas of machine learning like deep learning and reinforcement learning. You can also find me interested in robotics and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well and hope to contribute to that field as well.
 
 *   🌍  I'm based in Dhaka, Bangladesh
