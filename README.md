@@ -11,6 +11,17 @@ Welcome to my page!</br>A passionate roboticist and software developer hailing f
 *   🖥️  See my portfolio at [Behance](https://www.behance.net/abdullahhasan35)
 *   🧠  I'm learning ROS
 
+<p align=center>
+  <a href="https://github.com/Terabyte17">
+    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Terabyte17?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
+</p>
 
 
 ### Skills
@@ -116,12 +127,6 @@ Welcome to my page!</br>A passionate roboticist and software developer hailing f
 <p><a href="https://www.gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdullahhasann/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://github.com/Hasan-091" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://github.com/Hasan-091" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://discord.com/users/_abdullahhasan" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://www.behance.net/abdullahhasan35" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a> <a href="https://www.researchgate.net/profile/Abdullah-Hasan-26" target="_blank"><img alt="Researchgate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 </p>
 
-### Badges
-<b>My GitHub Stats</b>
-
-
-<a href="http://www.github.com/Hasan-091"><img src="https://github-readme-stats.vercel.app/api?username=Hasan-091&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hasan-091's GitHub stats" height="200" /></a> <a href="https://github.com/Hasan-091" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-091&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="200" /></a> <a href="http://www.github.com/Hasan-091"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-091&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="830" /></a> <a href="http://www.github.com/Hasan-091"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hasan-091&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> <b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
 
 📅 **I'm Most Productive on Friday** 
 
@@ -135,6 +140,15 @@ Saturday     8 commits      ████░░░░░░░░░░░░░�
 Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.38%
 
 ```
+
+### Badges
+<b>My GitHub Stats</b>
+
+
+<a href="http://www.github.com/Hasan-091"><img src="https://github-readme-stats.vercel.app/api?username=Hasan-091&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hasan-091's GitHub stats" height="200" /></a> <a href="https://github.com/Hasan-091" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-091&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="200" /></a> <a href="http://www.github.com/Hasan-091"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-091&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="830" /></a> <a href="http://www.github.com/Hasan-091"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hasan-091&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> <b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
 
 📊 **This Week I Spent My Time On** 
 
