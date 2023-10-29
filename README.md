@@ -12,16 +12,15 @@ Welcome to my page!</br>A passionate roboticist and software developer hailing f
 *   🧠  I'm learning ROS
 
 <p align=center>
-  <a href="https://github.com/Terabyte17">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Hasan-091">
+    <img src="https://badges.pufler.dev/visits/Hasan-091/Hasan-091?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Hasan-091?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Hasan-091?style=flat-square&color=black&logo=github">
   </a>
+  <a href="https://github.com/Hasan-091"><img src="https://img.shields.io/github/followers/Hasan-091?style=social"></a>
 </p>
-<p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
-</p>
+
 
 
 ### Skills
